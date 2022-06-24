@@ -1,0 +1,7 @@
+{
+  "name": "testps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
